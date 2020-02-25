@@ -2,14 +2,14 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://mark4400.github.io</id>
     <title>Gridea</title>
-    <updated>2019-09-11T09:21:11.922Z</updated>
+    <updated>2020-02-25T02:42:03.548Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://mark4400.github.io"/>
     <link rel="self" href="https://mark4400.github.io/atom.xml"/>
     <subtitle>温故而知新</subtitle>
     <logo>https://mark4400.github.io/images/avatar.png</logo>
     <icon>https://mark4400.github.io/favicon.ico</icon>
-    <rights>All rights reserved 2019, Gridea</rights>
+    <rights>All rights reserved 2020, Gridea</rights>
     <entry>
         <title type="html"><![CDATA[Hello Gridea]]></title>
         <id>https://mark4400.github.io/post/hello-gridea</id>
